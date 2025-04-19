@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="400" viewBox="0 0 500 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="500" height="400" fill="#F8F9FA"/>
+  
+  <!-- Code Analysis Icon -->
+  <g transform="translate(100, 100)">
+    <!-- Monitor -->
+    <rect x="150" y="50" width="200" height="120" rx="10" fill="#E9ECEF" stroke="#6C757D" stroke-width="2"/>
+    <rect x="170" y="70" width="160" height="80" fill="#212529"/>
+    
+    <!-- Code Lines -->
+    <rect x="180" y="80" width="140" height="4" fill="#25C2A0"/>
+    <rect x="180" y="90" width="100" height="4" fill="#25C2A0"/>
+    <rect x="180" y="100" width="120" height="4" fill="#25C2A0"/>
+    <rect x="180" y="110" width="80" height="4" fill="#25C2A0"/>
+    <rect x="180" y="120" width="140" height="4" fill="#25C2A0"/>
+    
+    <!-- Monitor Stand -->
+    <rect x="220" y="170" width="60" height="20" fill="#6C757D"/>
+    <rect x="240" y="190" width="20" height="30" fill="#6C757D"/>
+    
+    <!-- Analysis Graph -->
+    <path d="M50 200 L100 150 L150 180 L200 120 L250 160" stroke="#25C2A0" stroke-width="3" fill="none"/>
+    <circle cx="50" cy="200" r="5" fill="#25C2A0"/>
+    <circle cx="100" cy="150" r="5" fill="#25C2A0"/>
+    <circle cx="150" cy="180" r="5" fill="#25C2A0"/>
+    <circle cx="200" cy="120" r="5" fill="#25C2A0"/>
+    <circle cx="250" cy="160" r="5" fill="#25C2A0"/>
+  </g>
+</svg> 
