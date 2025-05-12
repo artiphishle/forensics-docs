@@ -41,13 +41,4 @@ function MyComponent() {
 }
 ```
 
-### Environment Variables
-
-These settings can be configured through environment variables:
-
-```env
-NEXT_PUBLIC_SETTINGS_SHOW_SUBPACKAGES=true
-NEXT_PUBLIC_SETTINGS_SHOW_VENDORPACKAGES=false
-```
-
-Note: The `NEXT_PUBLIC_PROJECT_PATH` environment variable is required and must be set to the path of the project you want to analyze.
+These settings can be configured through [environment variables](../../environment.md).
